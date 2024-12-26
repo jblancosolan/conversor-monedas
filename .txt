@@ -1,0 +1,7 @@
+[[ moneda de origen : USD
+convertida a moneda : ARS
+tipo de cambio el : 02-10-2024
+a las  : 10:41:24
+ valor por moneda : 971.25
+]
+]

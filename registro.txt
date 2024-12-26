@@ -1,0 +1,31 @@
+[[ moneda de origen : USD
+convertida a moneda : ARS
+tipo de cambio el : 02-10-2024 a las  : 11:23:51
+ valor por moneda : 971.25
+]
+][[ moneda de origen : ARS
+convertida a moneda : USD
+tipo de cambio el : 02-10-2024 a las  : 11:28:32
+ valor por moneda : 0.00103
+]
+][[ moneda de origen : ARS
+convertida a moneda : USD
+tipo de cambio el : 02-10-2024 a las  : 11:28:42
+ valor por moneda : 0.00103
+]
+, [ moneda de origen : COP
+convertida a moneda : USD
+tipo de cambio el : 02-10-2024 a las  : 11:28:42
+ valor por moneda : 2.3668E-4
+]
+][[ moneda de origen : USD
+convertida a moneda : BRL
+tipo de cambio el : 02-10-2024 a las  : 11:29:35
+ valor por moneda : 5.4513
+]
+][[ moneda de origen : PEN
+convertida a moneda : USD
+tipo de cambio el : 02-10-2024 a las  : 11:35:44
+ valor por moneda : 0.2693
+]
+]
